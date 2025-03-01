@@ -1,0 +1,17 @@
+C:/Users/IT/Desktop/UdemyCarBook/Infrastructure/UdemyCarBook.Persistence/obj/Debug/net8.0/UdemyCarBook.Persistence.csproj.AssemblyReference.cache
+C:/Users/IT/Desktop/UdemyCarBook/Infrastructure/UdemyCarBook.Persistence/obj/Debug/net8.0/UdemyCarBook.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/IT/Desktop/UdemyCarBook/Infrastructure/UdemyCarBook.Persistence/obj/Debug/net8.0/UdemyCarBook.Persistence.AssemblyInfoInputs.cache
+C:/Users/IT/Desktop/UdemyCarBook/Infrastructure/UdemyCarBook.Persistence/obj/Debug/net8.0/UdemyCarBook.Persistence.AssemblyInfo.cs
+C:/Users/IT/Desktop/UdemyCarBook/Infrastructure/UdemyCarBook.Persistence/obj/Debug/net8.0/UdemyCarBook.Persistence.csproj.CoreCompileInputs.cache
+C:/Users/IT/Desktop/UdemyCarBook/Infrastructure/UdemyCarBook.Persistence/bin/Debug/net8.0/UdemyCarBook.Persistence.deps.json
+C:/Users/IT/Desktop/UdemyCarBook/Infrastructure/UdemyCarBook.Persistence/bin/Debug/net8.0/UdemyCarBook.Persistence.runtimeconfig.json
+C:/Users/IT/Desktop/UdemyCarBook/Infrastructure/UdemyCarBook.Persistence/bin/Debug/net8.0/UdemyCarBook.Persistence.dll
+C:/Users/IT/Desktop/UdemyCarBook/Infrastructure/UdemyCarBook.Persistence/bin/Debug/net8.0/UdemyCarBook.Persistence.pdb
+C:/Users/IT/Desktop/UdemyCarBook/Infrastructure/UdemyCarBook.Persistence/bin/Debug/net8.0/UdemyCarBook.Domain.dll
+C:/Users/IT/Desktop/UdemyCarBook/Infrastructure/UdemyCarBook.Persistence/bin/Debug/net8.0/UdemyCarBook.Domain.pdb
+C:/Users/IT/Desktop/UdemyCarBook/Infrastructure/UdemyCarBook.Persistence/obj/Debug/net8.0/UdemyCar.F7B23CFF.Up2Date
+C:/Users/IT/Desktop/UdemyCarBook/Infrastructure/UdemyCarBook.Persistence/obj/Debug/net8.0/UdemyCarBook.Persistence.dll
+C:/Users/IT/Desktop/UdemyCarBook/Infrastructure/UdemyCarBook.Persistence/obj/Debug/net8.0/refint/UdemyCarBook.Persistence.dll
+C:/Users/IT/Desktop/UdemyCarBook/Infrastructure/UdemyCarBook.Persistence/obj/Debug/net8.0/UdemyCarBook.Persistence.pdb
+C:/Users/IT/Desktop/UdemyCarBook/Infrastructure/UdemyCarBook.Persistence/obj/Debug/net8.0/UdemyCarBook.Persistence.genruntimeconfig.cache
+C:/Users/IT/Desktop/UdemyCarBook/Infrastructure/UdemyCarBook.Persistence/obj/Debug/net8.0/ref/UdemyCarBook.Persistence.dll
