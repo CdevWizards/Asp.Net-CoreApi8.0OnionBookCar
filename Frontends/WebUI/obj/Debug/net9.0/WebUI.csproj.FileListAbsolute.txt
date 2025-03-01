@@ -1052,3 +1052,4 @@ c:/Users/IT/Desktop/Asp.Net-CoreApi/Frontends/WebUI/obj/Debug/net9.0/WebUI.sourc
 /Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar-main/Frontends/WebUI/obj/Debug/net9.0/compressed/8dnw6627i3-zczuo3lu3f.gz
 /Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar-main/Frontends/WebUI/obj/Debug/net9.0/compressed/2c76nnw67v-2zbtmmdbs8.gz
 /Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar-main/Frontends/WebUI/obj/Debug/net9.0/compressed/qck0os511m-j69dzcykj6.gz
+/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar-main/Frontends/WebUI/obj/Debug/net9.0/WebUI.sourcelink.json
