@@ -5,27 +5,40 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using Microsoft.VisualBasic;
+using Newtonsoft.Json;
+using UdemyCarBook.Dto.CarDtos;
 
 namespace WebUI.Controllers
 {
     public class AdminCarController : Controller
     {
-        private readonly ILogger<AdminCarController> _logger;
+        private readonly IHttpClientFactory _httpClientFactory;
 
-        public AdminCarController(ILogger<AdminCarController> logger)
+        public AdminCarController(IHttpClientFactory httpClientFactory)
         {
-            _logger = logger;
+            _httpClientFactory = httpClientFactory;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
+            var client = _httpClientFactory.CreateClient();
+            var responseMessage=await client.GetAsync("http://localhost:5204/api/Cars/GetCarWithBrand");
+            if(responseMessage.IsSuccessStatusCode)
+            {
+                var jsonData = await responseMessage.Content.ReadAsStringAsync();
+                var values=JsonConvert.DeserializeObject<List<ResultCarWithBrandsDto>>(jsonData);
+                return View(values);
+            }
             return View();
         }
-
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
+        [HttpGet]
+        public async Task <IActionResult> CreateCar()
         {
-            return View("Error!");
+            /*var client =_httpClientFactory.CreateClient();
+            var responseMessage=await client.GetAsync("http://localhost:5204/api/Brand");
+            var jsonData=JsonConvert.DeserializeObject<List<*/
+            return View();
         }
     }
 }
