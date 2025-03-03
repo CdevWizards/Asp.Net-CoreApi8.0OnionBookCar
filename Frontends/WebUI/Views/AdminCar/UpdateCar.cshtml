@@ -1,0 +1,73 @@
+@model UpdateCarDto
+@{
+    ViewData["Title"] = "UpdateCar";
+    Layout ="~/Views/AdminLayout/Index.cshtml";
+}
+
+   <div class="page-content">
+                <div class="container-fluid">
+                     <div class="row">
+                        <div class="col-xl-12">
+                            <div class="card">
+                                <div class="card-body">
+                    
+                                    <h4 class="card-title">Yeni Araç Girişi</h4>
+                                    <p class="card-subtitle mb-4">Araç İ<legend> ilgili temel bilgileri eksiksiz doldurmanız önemlidir. Veri
+                                        Girişlerinden sonra kaydet butonuna tıklayarak Güncelleme işlemi tamamlayabilirsiniz.
+                                    </legend></p>
+                                    @*Burası Düzenlendi<form method="post" asp-action="UpdateCar">*@
+                                        <form method="post">
+                                        <input type="hidden" asp-for="CarID" />
+                                        <div class="form-group">
+                                            <label for="exampleInputEmail1">Marka</label>
+                                            @*<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+                                            
+                                          @Html.DropDownListFor(x => x.BrandID, (List<SelectListItem>)ViewBag.BrandValues, 
+                                          "Bir marka seçin", new { @class = "form-control" })*@
+                                             <select class="form-control" asp-for="BrandID" asp-items="@ViewBag.BrandValues">
+                                   <option value=>seçiniz</option>
+                                         </select>            
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="exampleInputModel">Model</label>
+                                            <input type="text" class="form-control" id="exampleInputModel" asp-for="Model" placeholder="Model Girişi Yapınız">
+                                        </div>
+                                         <div class="form-group">
+                                            <label for="exampleInputCoverImageUrl">Kapak Fotoğrafı</label>
+                                            <input type="text" class="form-control" id="exampleInputCoverImageUrl" asp-for="CoverImageUrl" placeholder="Kapak Fotoğrafı Linkini Giriniz">
+                                        </div>
+                                         <div class="form-group">
+                                            <label for="exampleInputKm">Km</label>
+                                            <input type="text" class="form-control" id="exampleInputKm" asp-for="Km" placeholder="Model">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="exampleInputTransmission">Vites Türü</label>
+                                            <input type="text" class="form-control" id="exampleInputTransmission" asp-for="Transmission" placeholder="Vites Türü Giriniz">
+                                        </div>
+                                         <div class="form-group">
+                                            <label for="exampleInputSeat">Koltuk Sayısı</label>
+                                            <input type="number" class="form-control" id="exampleInputSeat" asp-for="Seat" placeholder="Koltuk Sayısını Seçiniz">
+                                        </div>
+                                          <div class="form-group">
+                                            <label for="exampleInputLuggage">Bagaj Sayısı</label>
+                                            <input type="number" class="form-control" id="exampleInputLuggage" asp-for="Luggage" placeholder="Bagaj Sayısını Giriniz">
+                                        </div>
+                                          <div class="form-group">
+                                            <label for="exampleInputFuel">Yakıt Türü</label>
+                                            <input type="text" class="form-control" id="exampleInputFuel" asp-for="Fuel" placeholder="Yakıt Türünü Giriniz">
+                                        </div>
+                                         <div class="form-group">
+                                            <label for="exampleInputBıgImageUrl">Büyük Kapak Fotoğrafı</label>
+                                            <input type="text" class="form-control" id="exampleInputBıgImageUrl" asp-for="BigImageUrl" placeholder="Araç Detayında Gözükecek Kapak Fotoğraf Linki">
+                                        </div>
+                                        
+                                        @*<div class="form-group mb-3">
+                                            <div class="custom-control custom-checkbox">
+                                                <input type="checkbox" class="custom-control-input" id="checkmeout0">
+                                                <label class="custom-control-label" for="checkmeout0">Check me out !</label>
+                                            </div>
+                                        </div>*@
+                                        <button type="submit" class="btn btn-primary waves-effect waves-light">Aracı Kaydet</button>
+                                    </form>
+                                </div> <!-- end card-body-->
+                            </div>
