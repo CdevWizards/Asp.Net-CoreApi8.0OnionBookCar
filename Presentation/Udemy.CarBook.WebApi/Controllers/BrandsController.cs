@@ -49,7 +49,7 @@ namespace Udemy.CarBook.WebApi.Controllers
            await _creatBrandCommandHandler.Handle(command);
            return Ok("Bilgi Eklendi");
         }
-         [HttpDelete]
+         [HttpDelete("{id}")]
         public async Task<IActionResult> RemoveBrand (int id)
         {
            await _removeBrandCommandHandler.Handle(new RemoveBrandCommand(id));

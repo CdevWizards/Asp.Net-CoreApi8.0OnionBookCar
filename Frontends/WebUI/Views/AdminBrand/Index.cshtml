@@ -1,4 +1,4 @@
-@model List<ResultFeatureDto>
+@model List<ResultBrandDto>
 @{
     ViewData["Title"] = "Index";
     Layout ="~/Views/AdminLayout/Index.cshtml";
@@ -28,18 +28,15 @@
                         <div class="col-xl-12">
                             <div class="card">
                                 <div class="card-body">
-                                    <h4 class="card-title">Araba Özellikleri Listesi </h4>
-                                    <p class="card-subtitle mb-4"> Arabalarla ilgili yeni özellik ekleme
-                                        (klima, Bluetooth, Audio, Elektrik vs) Özellikler listesi, özellikler üzerinde
-                                        düzenleme ve bir özelliği kaldırma işlemi gerçekleştirebilirsiniz.
-                                        Temada veri tutarlılığını sağlayabilmek için lütfen 3'ün katı şeklinde veri girişi yapınız.
+                                    <h4 class="card-title">Araba Marka Listesi </h4>
+                                    <p class="card-subtitle mb-4"> Araba Marka Ekleme
                                     </p>
                                     <div class="table-responsive">
                                         <table class="table mb-0">
                                             <thead>
                                                 <tr>
                                                     <th>#</th>
-                                                    <th>Özellik</th>
+                                                    <th>Marka Adı</th>
                                                     <th>Sil</th>
                                                     <th>Güncelle</th>
                                                 </tr>
@@ -50,16 +47,16 @@
                                                     count++;
                                                 <tr>
                                                     <th scope="row">@count</th>
-                                                    <td>@item.Name</td>
-                                                    <td><a href="/AdminFeature/RemoveFeature/@item.FeatureID" class="btn btn-outline-danger">Sil</a></td>
-                                                    <td><a href="/AdminFeature/UpdateFeature/@item.FeatureID" class="btn btn-outline-succes">Güncelle</a></td>
+                                                    <td>@item.name</td>
+                                                    <td><a href="/AdminBrand/RemoveBrand/@item.brandID" class="btn btn-outline-danger">Sil</a></td>
+                                                    <td><a href="/AdminBrand/UpdateBrand/@item.brandID" class="btn btn-outline-succes">Güncelle</a></td>
                                                    
 
                                                 </tr>
                                                 }
                                                 </tbody>
                                         </table>
-                                        <a href="/AdminFeature/CreateFeature/" class="btn btn-outline-primary">Yeni Özellik Girişi</a>
+                                        <a href="/AdminBrand/CreateBrand/" class="btn btn-outline-primary">Yeni Marka Girişi</a>
                                     </div>
 
                                 </div>

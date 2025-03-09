@@ -24,6 +24,18 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWJvdXQvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/ahmetcanulusoy/Desktop/Asp.NetCoreMain/Frontends/WebUI/Views/AdminBrand/CreateBrand.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW5CcmFuZC9DcmVhdGVCcmFuZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ahmetcanulusoy/Desktop/Asp.NetCoreMain/Frontends/WebUI/Views/AdminBrand/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW5CcmFuZC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ahmetcanulusoy/Desktop/Asp.NetCoreMain/Frontends/WebUI/Views/AdminBrand/UpdateBrand.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW5CcmFuZC9VcGRhdGVCcmFuZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/ahmetcanulusoy/Desktop/Asp.NetCoreMain/Frontends/WebUI/Views/AdminCar/CreateCar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW5DYXIvQ3JlYXRlQ2FyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
