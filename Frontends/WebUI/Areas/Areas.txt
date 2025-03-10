@@ -1,0 +1,2 @@
+mkdir Areas && mkdir Areas/Admin && mkdir Areas/Admin/Controllers && mkdir Areas/Admin/Views && mkdir Areas/Admin/Models
+
