@@ -48,7 +48,7 @@ namespace Udemy.CarBook.WebApi.Controllers
             await _creatAboutCommandHandler.Handle(command);
             return Ok("Hakkında Bilgisi Eklendi");
         }
-        [HttpDelete]
+        [HttpDelete("{id}")]
         public async Task<IActionResult> RemoveAbout(int id)
         {
             await _removeAboutCommandHandler.Handle(new RemoveAboutCommand(id));
