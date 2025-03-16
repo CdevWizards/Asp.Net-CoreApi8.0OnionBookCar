@@ -40,7 +40,7 @@ namespace Udemy.CarBook.WebApi.Controllers
             var values = await _mediator.Send(new GetAuthorByIdQuery(id));
             return Ok(values);
         }
-        [HttpDelete]
+        [HttpDelete("{id}")]
         public async Task<IActionResult> RemoveAuthor(int id)
         {
             await _mediator.Send(new RemoveAuthorCommand(id));
