@@ -12,7 +12,7 @@ namespace Udemy.CarBook.WebApi.Controllers
     [Route("api/[controller]")]
     [ApiController]
     
-    public class AboutsController : ControllerBase
+    public class AboutController : ControllerBase
     {
         private readonly CreatAboutCommandHandler _creatAboutCommandHandler;
         private readonly  GetAboutByIdQueryHandler _getAboutByIdQueryHandler;
@@ -20,7 +20,7 @@ namespace Udemy.CarBook.WebApi.Controllers
         private readonly UpdateAboutCommandHandler _updateAboutCommandHandler;
         private readonly RemoveAboutCommandHandler _removeAboutCommandHandler;
 
-        public AboutsController(CreatAboutCommandHandler creatAboutCommandHandler,
+        public AboutController(CreatAboutCommandHandler creatAboutCommandHandler,
         GetAboutByIdQueryHandler getAboutByIdQueryHandler,GetAboutQueryHandler getAboutQueryHandler,UpdateAboutCommandHandler updateAboutCommandHandler,
         RemoveAboutCommandHandler removeAboutCommandHandler)
         {

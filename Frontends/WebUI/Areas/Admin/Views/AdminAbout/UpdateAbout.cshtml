@@ -1,7 +1,7 @@
 @model UpdateAboutDto
 
 @{
-    ViewData["Title"] = "UpdateAboutDto";
+    ViewData["Title"] = "UpdateAbout";
     Layout = "~/Views/AdminLayout/Index.cshtml";
 }
 
@@ -11,24 +11,25 @@
             <div class="col-xl-12">
                 <div class="card">
                     <div class="card-body">
-                        <h4 class="card-title">Yeni About Bilgisi Girişi</h4>
-                        <p class="card-subtitle mb-4">About alanına veri girişini aşağıdaki panelden yapabilirsiniz. Tasarımda bozulma olmaması adına yeni bir banner girişi yaptıktan sonra önceki banner alanını silin, sadece 1 tane banner verisi kalmalıdır.</p>
+                        <h4 class="card-title">Hakkımızda Veri Girişi Alanı</h4>
+                        <p class="card-subtitle mb-4">
+                            Ana sayfanın ve Hakkımızda sayfasının "hakkım" alanında bulunan bilgileri aşağıdan düzenleyebilirsiniz. Tema bütünlüğünün bozulmaması adına lütfen sadece 1 tane veri girişi yapınız. Aksi durumlarda tema bütünlüğün bozulacaktır.
+                        </p>
                         <form method="post">
-                            <input type="hidden" asp-for="aboutID"/>
-                            
+                            <input type="hidden" asp-for="AboutID" />
                             <div class="form-group">
                                 <label for="exampleInputTitle">Başlık</label>
-                                <input type="text" class="form-control" id="exampleInputTitle" asp-for="title" placeholder="Başlığı Giriniz">
+                                <input type="text" class="form-control" id="exampleInputTitle" asp-for="Title" placeholder="Başlığı Giriniz">
                             </div>
                             <div class="form-group">
                                 <label for="exampleInputDescription">Açıklama</label>
-                                <input type="text" class="form-control" id="exampleInputDescription" asp-for="description" placeholder="Açıklamayı Giriniz">
+                                <textarea rows="5" asp-for="Description" class="form-control" placeholder="Açıklamayı Giriniz"></textarea>
                             </div>
                             <div class="form-group">
-                                <label for="exampleInputimageUrl">Video Url</label>
-                                <input type="text" class="form-control" id="exampleInputVideoDescription" asp-for="imageUrl" placeholder="Video Url Bilgisini Giriniz">
+                                <label for="exampleInputimageUrl">Video Açıklama</label>
+                                <input type="text" class="form-control" id="exampleInputimageUrl" asp-for="ImageUrl" placeholder="Hakkımda Kapak Fotoğraf Linkini Giriniz">
                             </div>
-                            <button type="submit" class="btn btn-primary waves-effect waves-light">About Bilgisini Güncelle</button>
+                            <button type="submit" class="btn btn-success waves-effect waves-light">Hakkımda Bilgisini Güncelle</button>
                         </form>
                     </div>
                 </div>
@@ -36,3 +37,5 @@
         </div>
     </div>
 </div>
+
+

@@ -18,9 +18,8 @@ namespace UdemyCarBook.Application.Features.CQRS.Handlers.AboutHandlers
         }
         public async Task Handle(CreateAboutCommand command)
         {
-            _repository.CreateAsync(new About
+            await _repository.CreateAsync(new About
             {
-                AboutID = command.AboutID,
                 Title = command.Title,
                 Description = command.Description,
                  ImageUrl = command.ImageUrl
