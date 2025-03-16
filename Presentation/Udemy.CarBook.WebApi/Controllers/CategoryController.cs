@@ -49,7 +49,7 @@ namespace Udemy.CarBook.WebApi.Controllers
            await _creatCategoryCommandHandler.Handle(command);
            return Ok("Kategori Eklendi");
         }
-         [HttpDelete]
+         [HttpDelete("{id}")]
         public async Task<IActionResult> RemoveCategory (int id)
         {
            await _removeCategoryCommandHandler.Handle(new RemoveCategoryCommand(id));
