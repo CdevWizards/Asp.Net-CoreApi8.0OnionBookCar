@@ -40,7 +40,7 @@ namespace Udemy.CarBook.WebApi.Controllers
             var values = await _mediator.Send(new GetPricingByIdQuery(id));
             return Ok(values);
         }
-        [HttpDelete]
+        [HttpDelete("{id}")]
         public async Task<IActionResult> RemovePricing(int id)
         {
             await _mediator.Send(new RemovePricingCommand(id));
