@@ -41,6 +41,7 @@ using UdemyCarBook.Persistence.Repositories.TagCloudRepositories;
 using UdemyCarBook.Application.Features.RepositoryPattern;
 using UdemyCarBook.Persistence.Repositories.CommentRepositories;
 using UdemyCarBook.Domain.Entities;
+using UdemyCarBook.Application.Features.CQRS.Handlers.ContactHandlers;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -80,6 +81,13 @@ builder.Services.AddScoped<RemoveCarCommandHandler>();
 builder.Services.AddScoped<GetCarWithBrandQueryHandler>();
 builder.Services.AddScoped<GetLast5CarWithBrandQueryHandler>();
 builder.Services.AddScoped<GetCarPricingQueryHandler>();
+
+builder.Services.AddScoped<GetContactQueryHandler>();
+builder.Services.AddScoped<GetContactByIdQueryHandler>();
+builder.Services.AddScoped<CreateContactCommandHandler>();
+builder.Services.AddScoped<RemoveContactCommandHandler>();
+builder.Services.AddScoped<UpdateContactCommandHandler>();
+
 
 
 builder.Services.AddScoped<GetFeatureQueryHandler>();
