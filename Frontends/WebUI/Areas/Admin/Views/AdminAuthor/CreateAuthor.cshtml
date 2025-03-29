@@ -1,0 +1,36 @@
+@model CreateAuthorDto
+
+@{
+    ViewData["Title"] = "CreateAuthor";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<div class="page-content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Yeni Yazar Bilgisi Bilgisi Girişi</h4>
+                        <p class="card-subtitle mb-4">Yazar alanına veri girişini aşağıdaki panelden yapabilirsiniz. Tasarımda bozulma olmaması adına yeni bir Author girişi yaptıktan sonra önceki Author alanını silin, sadece 1 tane Author verisi kalmalıdır.</p>
+                        <form method="post">
+                            <div class="form-group">
+                                <label for="exampleInputNameßß">Başlık</label>
+                                <input type="text" class="form-control" id="exampleInputTitle" asp-for="Name" placeholder="Başlığı Giriniz">
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputDescription">Açıklama</label>
+                                <input type="text" class="form-control" id="exampleInputDescription" asp-for="Description" placeholder="Açıklamayı Giriniz">
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputImageUrl">Yazar Görsel</label>
+                                <input type="text" class="form-control" id="exampleInputImageUrl" asp-for="ImageUrl" placeholder=" Yazar Görsel Bilgisini Giriniz">
+                            </div>
+                            <button type="submit" class="btn btn-primary waves-effect waves-light">Yazarı Kaydet</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

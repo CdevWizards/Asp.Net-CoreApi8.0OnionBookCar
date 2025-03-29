@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [    
+        
+        {
+            "name": "WebAPI",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/Presentation/Udemy.CarBook.WebApi/Udemy.CarBook.WebApi.csproj"
+        },
+        {
+            "name": "WebUI",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/Frontends/WebUI/WebUI.csproj"
+        }
+    ],
+    "compounds": [
+        {
+            "name": "Run WebAPI and WebUI",
+            "configurations": [
+                "WebAPI",
+                "WebUI"
+            ]
+        }
+    ]
+}

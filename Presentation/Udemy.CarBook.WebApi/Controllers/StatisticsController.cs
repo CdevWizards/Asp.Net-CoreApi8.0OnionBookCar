@@ -1,0 +1,28 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using MediatR;
+using Microsoft.AspNetCore.Mvc;
+using UdemyCarBook.Application.Features.Mediator.Queries.StatisticsQueries;
+
+namespace Udemy.CarBook.WebApi.Controllers
+{
+    [ApiController]
+    [Route("api/[controller]")]
+    public class StatisticsController : ControllerBase
+    {
+      private readonly IMediator _mediator;
+
+        public StatisticsController(IMediator mediator)
+        {
+            _mediator = mediator;
+        }
+         [HttpGet("GetCarCount")]
+        public async Task<IActionResult> GetAuthor()
+        {
+            var values = await _mediator.Send(new GetCarCountQuery());
+            return Ok(values);
+        }
+    }
+}
