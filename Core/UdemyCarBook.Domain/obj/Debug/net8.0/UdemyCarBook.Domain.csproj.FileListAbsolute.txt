@@ -113,3 +113,4 @@ c:/Users/IT/Desktop/Asp.Net-CoreApi8.0OnionBookCar-main/Core/UdemyCarBook.Domain
 /Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Domain/obj/Debug/net8.0/refint/UdemyCarBook.Domain.dll
 /Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Domain/obj/Debug/net8.0/UdemyCarBook.Domain.pdb
 /Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Domain/obj/Debug/net8.0/ref/UdemyCarBook.Domain.dll
+/Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Domain/obj/Debug/net8.0/UdemyCarBook.Domain.sourcelink.json

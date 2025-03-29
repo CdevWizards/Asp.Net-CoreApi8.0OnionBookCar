@@ -195,3 +195,4 @@ c:/Users/IT/Desktop/Asp.Net-CoreApi8.0OnionBookCar-main/Infrastructure/UdemyCarB
 /Users/ahmetcanulusoy/Desktop/Proje1/Infrastructure/UdemyCarBook.Persistence/obj/Debug/net9.0/UdemyCarBook.Persistence.pdb
 /Users/ahmetcanulusoy/Desktop/Proje1/Infrastructure/UdemyCarBook.Persistence/obj/Debug/net9.0/UdemyCarBook.Persistence.genruntimeconfig.cache
 /Users/ahmetcanulusoy/Desktop/Proje1/Infrastructure/UdemyCarBook.Persistence/obj/Debug/net9.0/ref/UdemyCarBook.Persistence.dll
+/Users/ahmetcanulusoy/Desktop/Proje1/Infrastructure/UdemyCarBook.Persistence/obj/Debug/net9.0/UdemyCarBook.Persistence.sourcelink.json

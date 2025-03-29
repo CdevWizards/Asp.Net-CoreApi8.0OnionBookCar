@@ -7,7 +7,7 @@ using UdemyCarBook.Application.Features.Mediator.Results.StatisticsResults;
 
 namespace UdemyCarBook.Application.Features.Mediator.Queries.StatisticsQueries
 {
-    public class GetAuhorCountQuery:IRequest<GetAuthorCountQueryResult>
+    public class GetAuthorCountQuery:IRequest<GetAuthorCountQueryResult>
     
     {
         

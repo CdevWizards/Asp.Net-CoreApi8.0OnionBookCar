@@ -42,6 +42,8 @@ using UdemyCarBook.Application.Features.RepositoryPattern;
 using UdemyCarBook.Persistence.Repositories.CommentRepositories;
 using UdemyCarBook.Domain.Entities;
 using UdemyCarBook.Application.Features.CQRS.Handlers.ContactHandlers;
+using UdemyCarBook.Application.Interfaces.StatisticsInterfaces;
+using UdemyCarBook.Persistence.Repositories.StatisticsRepositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -49,6 +51,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddScoped<CarBookContext>();
 builder.Services.AddScoped(typeof(IRepository<>),typeof(Repository<>));
 builder.Services.AddScoped(typeof(ICarRepository),typeof(CarRepository));
+builder.Services.AddScoped(typeof(IStatisticsRepository),typeof(StatisticsRepository));
 builder.Services.AddScoped(typeof(IBlogRepository),typeof(BlogRepository));
 builder.Services.AddScoped(typeof(ICarPricingRepository),typeof(CarPricingRepository));
 builder.Services.AddScoped(typeof(ITagCloudRepository),typeof(TagCloudRepository));

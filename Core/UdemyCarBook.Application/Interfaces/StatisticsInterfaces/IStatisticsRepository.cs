@@ -9,10 +9,10 @@ namespace UdemyCarBook.Application.Interfaces.StatisticsInterfaces
     {
         int GetCarCount();
         int GetLocationCount();
-        int GetAuhorCount();
+        int GetAuthorCount();
         int GetBlogCount();
         int GetBrandCount();
-        decimal GetAvgRentPriceForDaily();
+        decimal GetAvgRentPriceForDaily(); // Buraadaym
         decimal GetAvgRentPriceForWeekly();
         decimal GetAvgRentPriceForMonthly();
 

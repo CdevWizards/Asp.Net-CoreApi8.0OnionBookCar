@@ -2324,3 +2324,4 @@ c:/Users/IT/Desktop/Asp.Net-CoreApi8.0OnionBookCar-main/Frontends/WebUI/obj/Debu
 /Users/ahmetcanulusoy/Desktop/Proje1/Frontends/WebUI/obj/Debug/net9.0/WebUI.pdb
 /Users/ahmetcanulusoy/Desktop/Proje1/Frontends/WebUI/obj/Debug/net9.0/WebUI.genruntimeconfig.cache
 /Users/ahmetcanulusoy/Desktop/Proje1/Frontends/WebUI/obj/Debug/net9.0/ref/WebUI.dll
+/Users/ahmetcanulusoy/Desktop/Proje1/Frontends/WebUI/obj/Debug/net9.0/WebUI.sourcelink.json

@@ -7,7 +7,7 @@ using UdemyCarBook.Application.Features.Mediator.Results.StatisticsResults;
 
 namespace UdemyCarBook.Application.Features.Mediator.Queries.StatisticsQueries
 {
-    public class GetAvgRentPriceForDailyQuery:IRequest<GetAvgPriceForDailyQueryResult>
+    public class GetAvgRentPriceForDailyQuery:IRequest<GetAvgRentPriceForDailyQueryResult>
     
     {
         

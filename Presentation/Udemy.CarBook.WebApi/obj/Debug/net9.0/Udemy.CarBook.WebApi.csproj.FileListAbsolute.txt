@@ -1193,3 +1193,4 @@ c:/Users/IT/Desktop/Asp.Net-CoreApi8.0OnionBookCar-main/Presentation/Udemy.CarBo
 /Users/ahmetcanulusoy/Desktop/Proje1/Presentation/Udemy.CarBook.WebApi/obj/Debug/net9.0/Udemy.CarBook.WebApi.pdb
 /Users/ahmetcanulusoy/Desktop/Proje1/Presentation/Udemy.CarBook.WebApi/obj/Debug/net9.0/Udemy.CarBook.WebApi.genruntimeconfig.cache
 /Users/ahmetcanulusoy/Desktop/Proje1/Presentation/Udemy.CarBook.WebApi/obj/Debug/net9.0/ref/Udemy.CarBook.WebApi.dll
+/Users/ahmetcanulusoy/Desktop/Proje1/Presentation/Udemy.CarBook.WebApi/obj/Debug/net9.0/Udemy.CarBook.WebApi.sourcelink.json

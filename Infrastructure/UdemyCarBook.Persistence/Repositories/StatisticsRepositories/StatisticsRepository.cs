@@ -26,7 +26,7 @@ namespace UdemyCarBook.Persistence.Repositories.StatisticsRepositories
             throw new NotImplementedException();
         }
 
-        public int GetAuhorCount()
+        public int GetAuthorCount()
         {
             var value=_context.Authors.Count();
             return value;
