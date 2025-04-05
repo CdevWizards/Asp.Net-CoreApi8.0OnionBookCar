@@ -1,0 +1,12 @@
+/Users/ahmetcanulusoy/Desktop/Proje1/publish/UdemyCarBook.Application.dll
+/Users/ahmetcanulusoy/Desktop/Proje1/publish/UdemyCarBook.Application.deps.json
+/Users/ahmetcanulusoy/Desktop/Proje1/publish/UdemyCarBook.Application.pdb
+/Users/ahmetcanulusoy/Desktop/Proje1/publish/MediatR.dll
+/Users/ahmetcanulusoy/Desktop/Proje1/publish/MediatR.Contracts.dll
+/Users/ahmetcanulusoy/Desktop/Proje1/publish/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/ahmetcanulusoy/Desktop/Proje1/publish/Microsoft.Extensions.Configuration.dll
+/Users/ahmetcanulusoy/Desktop/Proje1/publish/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/ahmetcanulusoy/Desktop/Proje1/publish/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/ahmetcanulusoy/Desktop/Proje1/publish/Microsoft.Extensions.Primitives.dll
+/Users/ahmetcanulusoy/Desktop/Proje1/publish/UdemyCarBook.Domain.dll
+/Users/ahmetcanulusoy/Desktop/Proje1/publish/UdemyCarBook.Domain.pdb

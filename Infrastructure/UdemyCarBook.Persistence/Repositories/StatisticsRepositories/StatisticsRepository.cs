@@ -16,12 +16,12 @@ namespace UdemyCarBook.Persistence.Repositories.StatisticsRepositories
             _context = context;
         }
 
-        public string BlogTitleByMaxBlogComment()
+        public string GetBlogTitleByMaxBlogComment()
         {
             throw new NotImplementedException();
         }
 
-        public string BrandNameByMaxCar()
+        public string GetBrandNameByMaxCar()
         {
             throw new NotImplementedException();
         }

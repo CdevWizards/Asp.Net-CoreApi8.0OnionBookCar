@@ -1,0 +1,10 @@
+/Users/ahmetcanulusoy/Desktop/Proje1/publish/WebUI
+/Users/ahmetcanulusoy/Desktop/Proje1/publish/appsettings.Development.json
+/Users/ahmetcanulusoy/Desktop/Proje1/publish/appsettings.json
+/Users/ahmetcanulusoy/Desktop/Proje1/publish/WebUI.dll
+/Users/ahmetcanulusoy/Desktop/Proje1/publish/WebUI.deps.json
+/Users/ahmetcanulusoy/Desktop/Proje1/publish/WebUI.runtimeconfig.json
+/Users/ahmetcanulusoy/Desktop/Proje1/publish/WebUI.pdb
+/Users/ahmetcanulusoy/Desktop/Proje1/publish/Newtonsoft.Json.dll
+/Users/ahmetcanulusoy/Desktop/Proje1/publish/UdemyCarBook.Dto.dll
+/Users/ahmetcanulusoy/Desktop/Proje1/publish/UdemyCarBook.Dto.pdb

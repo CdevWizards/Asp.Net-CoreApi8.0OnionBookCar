@@ -1,0 +1,16 @@
+/Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Application/bin/Release/net9.0/UdemyCarBook.Application.deps.json
+/Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Application/bin/Release/net9.0/UdemyCarBook.Application.dll
+/Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Application/bin/Release/net9.0/UdemyCarBook.Application.pdb
+/Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Application/bin/Release/net9.0/UdemyCarBook.Domain.dll
+/Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Application/bin/Release/net9.0/UdemyCarBook.Domain.pdb
+/Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Application/obj/Release/net9.0/UdemyCarBook.Application.csproj.AssemblyReference.cache
+/Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Application/obj/Release/net9.0/UdemyCarBook.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Application/obj/Release/net9.0/UdemyCarBook.Application.AssemblyInfoInputs.cache
+/Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Application/obj/Release/net9.0/UdemyCarBook.Application.AssemblyInfo.cs
+/Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Application/obj/Release/net9.0/UdemyCarBook.Application.csproj.CoreCompileInputs.cache
+/Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Application/obj/Release/net9.0/UdemyCarBook.Application.sourcelink.json
+/Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Application/obj/Release/net9.0/UdemyCar.7CD4E403.Up2Date
+/Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Application/obj/Release/net9.0/UdemyCarBook.Application.dll
+/Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Application/obj/Release/net9.0/refint/UdemyCarBook.Application.dll
+/Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Application/obj/Release/net9.0/UdemyCarBook.Application.pdb
+/Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Application/obj/Release/net9.0/ref/UdemyCarBook.Application.dll

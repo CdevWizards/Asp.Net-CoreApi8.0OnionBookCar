@@ -17,13 +17,12 @@ namespace UdemyCarBook.Application.Interfaces.StatisticsInterfaces
         decimal GetAvgRentPriceForMonthly();
 
         int GetCarCountByTransmissonIsAuto();
-        string BrandNameByMaxCar();
-        string BlogTitleByMaxBlogComment();
+        string GetBrandNameByMaxCar();
+        string GetBlogTitleByMaxBlogComment();
         int GetCarCountByKmSmallerThen1000();
         int GetCarCountByFuelGasolineorDiesel();
         int GetCarCountByFuelElectric();
         string GetCarBrandAndModelByRentPriceDailyMax();
         string GetCarBrandAndModelByRentPriceDailyMin();
-        
     }
 }

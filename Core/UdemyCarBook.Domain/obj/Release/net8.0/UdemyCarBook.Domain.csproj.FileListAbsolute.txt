@@ -1,0 +1,12 @@
+/Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Domain/bin/Release/net8.0/UdemyCarBook.Domain.deps.json
+/Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Domain/bin/Release/net8.0/UdemyCarBook.Domain.dll
+/Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Domain/bin/Release/net8.0/UdemyCarBook.Domain.pdb
+/Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Domain/obj/Release/net8.0/UdemyCarBook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Domain/obj/Release/net8.0/UdemyCarBook.Domain.AssemblyInfoInputs.cache
+/Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Domain/obj/Release/net8.0/UdemyCarBook.Domain.AssemblyInfo.cs
+/Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Domain/obj/Release/net8.0/UdemyCarBook.Domain.csproj.CoreCompileInputs.cache
+/Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Domain/obj/Release/net8.0/UdemyCarBook.Domain.sourcelink.json
+/Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Domain/obj/Release/net8.0/UdemyCarBook.Domain.dll
+/Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Domain/obj/Release/net8.0/refint/UdemyCarBook.Domain.dll
+/Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Domain/obj/Release/net8.0/UdemyCarBook.Domain.pdb
+/Users/ahmetcanulusoy/Desktop/Proje1/Core/UdemyCarBook.Domain/obj/Release/net8.0/ref/UdemyCarBook.Domain.dll

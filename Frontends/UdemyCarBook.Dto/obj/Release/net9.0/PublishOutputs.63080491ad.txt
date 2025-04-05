@@ -1,0 +1,3 @@
+/Users/ahmetcanulusoy/Desktop/Proje1/publish/UdemyCarBook.Dto.dll
+/Users/ahmetcanulusoy/Desktop/Proje1/publish/UdemyCarBook.Dto.deps.json
+/Users/ahmetcanulusoy/Desktop/Proje1/publish/UdemyCarBook.Dto.pdb
