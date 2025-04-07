@@ -93,3 +93,15 @@ c:/Users/IT/Desktop/Asp.Net-CoreApi8.0OnionBookCar-main/Frontends/UdemyCarBook.D
 /Users/ahmetcanulusoy/Desktop/Proje1/Frontends/UdemyCarBook.Dto/obj/Debug/net9.0/UdemyCarBook.Dto.pdb
 /Users/ahmetcanulusoy/Desktop/Proje1/Frontends/UdemyCarBook.Dto/obj/Debug/net9.0/ref/UdemyCarBook.Dto.dll
 /Users/ahmetcanulusoy/Desktop/Proje1/Frontends/UdemyCarBook.Dto/obj/Debug/net9.0/UdemyCarBook.Dto.sourcelink.json
+c:\Users\IT\Desktop\Asp.Net-CoreApi8.0OnionBookCar\Frontends\UdemyCarBook.Dto\bin\Debug\net9.0\UdemyCarBook.Dto.deps.json
+c:\Users\IT\Desktop\Asp.Net-CoreApi8.0OnionBookCar\Frontends\UdemyCarBook.Dto\bin\Debug\net9.0\UdemyCarBook.Dto.dll
+c:\Users\IT\Desktop\Asp.Net-CoreApi8.0OnionBookCar\Frontends\UdemyCarBook.Dto\bin\Debug\net9.0\UdemyCarBook.Dto.pdb
+c:\Users\IT\Desktop\Asp.Net-CoreApi8.0OnionBookCar\Frontends\UdemyCarBook.Dto\obj\Debug\net9.0\UdemyCarBook.Dto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\IT\Desktop\Asp.Net-CoreApi8.0OnionBookCar\Frontends\UdemyCarBook.Dto\obj\Debug\net9.0\UdemyCarBook.Dto.AssemblyInfoInputs.cache
+c:\Users\IT\Desktop\Asp.Net-CoreApi8.0OnionBookCar\Frontends\UdemyCarBook.Dto\obj\Debug\net9.0\UdemyCarBook.Dto.AssemblyInfo.cs
+c:\Users\IT\Desktop\Asp.Net-CoreApi8.0OnionBookCar\Frontends\UdemyCarBook.Dto\obj\Debug\net9.0\UdemyCarBook.Dto.csproj.CoreCompileInputs.cache
+c:\Users\IT\Desktop\Asp.Net-CoreApi8.0OnionBookCar\Frontends\UdemyCarBook.Dto\obj\Debug\net9.0\UdemyCarBook.Dto.sourcelink.json
+c:\Users\IT\Desktop\Asp.Net-CoreApi8.0OnionBookCar\Frontends\UdemyCarBook.Dto\obj\Debug\net9.0\UdemyCarBook.Dto.dll
+c:\Users\IT\Desktop\Asp.Net-CoreApi8.0OnionBookCar\Frontends\UdemyCarBook.Dto\obj\Debug\net9.0\refint\UdemyCarBook.Dto.dll
+c:\Users\IT\Desktop\Asp.Net-CoreApi8.0OnionBookCar\Frontends\UdemyCarBook.Dto\obj\Debug\net9.0\UdemyCarBook.Dto.pdb
+c:\Users\IT\Desktop\Asp.Net-CoreApi8.0OnionBookCar\Frontends\UdemyCarBook.Dto\obj\Debug\net9.0\ref\UdemyCarBook.Dto.dll

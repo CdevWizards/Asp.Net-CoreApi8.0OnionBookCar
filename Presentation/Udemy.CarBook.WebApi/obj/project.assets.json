@@ -2911,32 +2911,39 @@
     ]
   },
   "packageFolders": {
-    "/Users/ahmetcanulusoy/.nuget/packages/": {}
+    "C:\\Users\\IT\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ahmetcanulusoy/Desktop/Proje1/Presentation/Udemy.CarBook.WebApi/Udemy.CarBook.WebApi.csproj",
+      "projectUniqueName": "c:\\Users\\IT\\Desktop\\Asp.Net-CoreApi8.0OnionBookCar\\Presentation\\Udemy.CarBook.WebApi\\Udemy.CarBook.WebApi.csproj",
       "projectName": "Udemy.CarBook.WebApi",
-      "projectPath": "/Users/ahmetcanulusoy/Desktop/Proje1/Presentation/Udemy.CarBook.WebApi/Udemy.CarBook.WebApi.csproj",
-      "packagesPath": "/Users/ahmetcanulusoy/.nuget/packages/",
-      "outputPath": "/Users/ahmetcanulusoy/Desktop/Proje1/Presentation/Udemy.CarBook.WebApi/obj/",
+      "projectPath": "c:\\Users\\IT\\Desktop\\Asp.Net-CoreApi8.0OnionBookCar\\Presentation\\Udemy.CarBook.WebApi\\Udemy.CarBook.WebApi.csproj",
+      "packagesPath": "C:\\Users\\IT\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\IT\\Desktop\\Asp.Net-CoreApi8.0OnionBookCar\\Presentation\\Udemy.CarBook.WebApi\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/ahmetcanulusoy/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\IT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/ahmetcanulusoy/Desktop/Proje1/Infrastructure/UdemyCarBook.Persistence/UdemyCarBook.Persistence.csproj": {
-              "projectPath": "/Users/ahmetcanulusoy/Desktop/Proje1/Infrastructure/UdemyCarBook.Persistence/UdemyCarBook.Persistence.csproj"
+            "c:\\Users\\IT\\Desktop\\Asp.Net-CoreApi8.0OnionBookCar\\Infrastructure\\UdemyCarBook.Persistence\\UdemyCarBook.Persistence.csproj": {
+              "projectPath": "c:\\Users\\IT\\Desktop\\Asp.Net-CoreApi8.0OnionBookCar\\Infrastructure\\UdemyCarBook.Persistence\\UdemyCarBook.Persistence.csproj"
             }
           }
         }
@@ -2999,7 +3006,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   },

@@ -23,8 +23,18 @@ namespace UdemyCarBook.Persistence.Repositories.StatisticsRepositories
 
         public string GetBrandNameByMaxCar()
         {
-            throw new NotImplementedException();
+            //Select Top(1) BrandId,Count(*) as 'ToplamArac' From Cars Group By Brands.Name  order By ToplamArac Desc
+          
+            var values = _context.Cars.GroupBy(x => x.BrandID).
+                             Select(y => new
+                             {
+                                 BrandID = y.Key,
+                                 Count = y.Count()
+                             }).OrderByDescending(z => z.Count).Take(1).FirstOrDefault();
+            string brandName = _context.Brands.Where(x => x.BrandID == values.BrandID).Select(y => y.Name).FirstOrDefault();
+            return brandName;
         }
+
 
         public int GetAuthorCount()
         {

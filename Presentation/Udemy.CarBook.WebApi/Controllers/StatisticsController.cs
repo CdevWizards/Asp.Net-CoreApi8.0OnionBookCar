@@ -48,16 +48,18 @@ namespace Udemy.CarBook.WebApi.Controllers
             var values = await _mediator.Send(new GetBrandCountQuery());
             return Ok(values);
         }
-        [HttpGet("GetAvgRentPriceForDaily")]
+         [HttpGet("GetAvgRentPriceForDaily")]
         public async Task<IActionResult> GetAvgRentPriceForDaily()
         {
             var values = await _mediator.Send(new GetAvgRentPriceForDailyQuery());
             return Ok(values);
-        }[HttpGet("GetAvgRentPriceForWeekly")]
+        }
+        [HttpGet("GetAvgRentPriceForWeekly")]
         public async Task<IActionResult> GetAvgRentPriceForWeekly()
         {
             var values = await _mediator.Send(new GetAvgRentPriceForWeeklyQuery());
             return Ok(values);
+            
         }[HttpGet("GetAvgRentPriceForMonthly")]
         public async Task<IActionResult> GetAvgRentPriceForMonthly()
         {

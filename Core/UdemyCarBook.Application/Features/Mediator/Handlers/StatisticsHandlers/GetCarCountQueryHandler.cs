@@ -25,7 +25,7 @@ namespace UdemyCarBook.Application.Features.Mediator.Handlers.StatisticsHandlers
             var values =  _repository.GetCarCount(); // await yazınca neden hata alıyoruz.
             return new GetCarCountQueryResult
             {
-               CarCount = values,
+                CarCount = values,
             };  
         }
     }

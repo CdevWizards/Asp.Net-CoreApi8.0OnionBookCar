@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ahmetcanulusoy/Desktop/Proje1/Frontends/WebUI/WebUI.csproj": {}
+    "c:\\Users\\IT\\Desktop\\Asp.Net-CoreApi8.0OnionBookCar\\Frontends\\WebUI\\WebUI.csproj": {}
   },
   "projects": {
-    "/Users/ahmetcanulusoy/Desktop/Proje1/Frontends/UdemyCarBook.Dto/UdemyCarBook.Dto.csproj": {
+    "c:\\Users\\IT\\Desktop\\Asp.Net-CoreApi8.0OnionBookCar\\Frontends\\UdemyCarBook.Dto\\UdemyCarBook.Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ahmetcanulusoy/Desktop/Proje1/Frontends/UdemyCarBook.Dto/UdemyCarBook.Dto.csproj",
+        "projectUniqueName": "c:\\Users\\IT\\Desktop\\Asp.Net-CoreApi8.0OnionBookCar\\Frontends\\UdemyCarBook.Dto\\UdemyCarBook.Dto.csproj",
         "projectName": "UdemyCarBook.Dto",
-        "projectPath": "/Users/ahmetcanulusoy/Desktop/Proje1/Frontends/UdemyCarBook.Dto/UdemyCarBook.Dto.csproj",
-        "packagesPath": "/Users/ahmetcanulusoy/.nuget/packages/",
-        "outputPath": "/Users/ahmetcanulusoy/Desktop/Proje1/Frontends/UdemyCarBook.Dto/obj/",
+        "projectPath": "c:\\Users\\IT\\Desktop\\Asp.Net-CoreApi8.0OnionBookCar\\Frontends\\UdemyCarBook.Dto\\UdemyCarBook.Dto.csproj",
+        "packagesPath": "C:\\Users\\IT\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\IT\\Desktop\\Asp.Net-CoreApi8.0OnionBookCar\\Frontends\\UdemyCarBook.Dto\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/ahmetcanulusoy/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\IT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,34 +65,40 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/ahmetcanulusoy/Desktop/Proje1/Frontends/WebUI/WebUI.csproj": {
+    "c:\\Users\\IT\\Desktop\\Asp.Net-CoreApi8.0OnionBookCar\\Frontends\\WebUI\\WebUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ahmetcanulusoy/Desktop/Proje1/Frontends/WebUI/WebUI.csproj",
+        "projectUniqueName": "c:\\Users\\IT\\Desktop\\Asp.Net-CoreApi8.0OnionBookCar\\Frontends\\WebUI\\WebUI.csproj",
         "projectName": "WebUI",
-        "projectPath": "/Users/ahmetcanulusoy/Desktop/Proje1/Frontends/WebUI/WebUI.csproj",
-        "packagesPath": "/Users/ahmetcanulusoy/.nuget/packages/",
-        "outputPath": "/Users/ahmetcanulusoy/Desktop/Proje1/Frontends/WebUI/obj/",
+        "projectPath": "c:\\Users\\IT\\Desktop\\Asp.Net-CoreApi8.0OnionBookCar\\Frontends\\WebUI\\WebUI.csproj",
+        "packagesPath": "C:\\Users\\IT\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\IT\\Desktop\\Asp.Net-CoreApi8.0OnionBookCar\\Frontends\\WebUI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/ahmetcanulusoy/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\IT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/Users/ahmetcanulusoy/Desktop/Proje1/Frontends/UdemyCarBook.Dto/UdemyCarBook.Dto.csproj": {
-                "projectPath": "/Users/ahmetcanulusoy/Desktop/Proje1/Frontends/UdemyCarBook.Dto/UdemyCarBook.Dto.csproj"
+              "c:\\Users\\IT\\Desktop\\Asp.Net-CoreApi8.0OnionBookCar\\Frontends\\UdemyCarBook.Dto\\UdemyCarBook.Dto.csproj": {
+                "projectPath": "c:\\Users\\IT\\Desktop\\Asp.Net-CoreApi8.0OnionBookCar\\Frontends\\UdemyCarBook.Dto\\UdemyCarBook.Dto.csproj"
               }
             }
           }
@@ -131,7 +143,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
