@@ -196,6 +196,17 @@ namespace WebUI.Areas.Admin.Controllers
                 ViewBag.carBrandAndModelByRentPriceDailyMaxRandom = carBrandAndModelByRentPriceDailyMinRandom;
             }
             #endregion
+            #region Blog Say
+            var responseMessage17 = await client.GetAsync("http://localhost:5204/api/Statistics/GetBlogTitleByMaxBlogComment");
+            if (responseMessage17.IsSuccessStatusCode)
+            {
+                int blogTitleByMaxBlogCommentRandom = random.Next(0, 101);
+                var jsonData17 = await responseMessage17.Content.ReadAsStringAsync();
+                var values17 = JsonConvert.DeserializeObject<ResultStatisticsDto>(jsonData17);
+                ViewBag.blogTitleByMaxBlogComment = values17.blogTitleByMaxBlogComment;//.ToString("0.00"); ;
+                ViewBag.blogTitleByMaxBlogCommentRandom = blogTitleByMaxBlogCommentRandom;
+            }
+            #endregion
             return View();
 
     }

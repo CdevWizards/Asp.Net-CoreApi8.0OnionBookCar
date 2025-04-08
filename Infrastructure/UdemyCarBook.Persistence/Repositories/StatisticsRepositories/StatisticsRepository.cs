@@ -20,7 +20,16 @@ namespace UdemyCarBook.Persistence.Repositories.StatisticsRepositories
 
         public string GetBlogTitleByMaxBlogComment()
         {
-            throw new NotImplementedException();
+            //SELECT  BlogID,Count(*) as 'Sayi' From comments group by BlogID order by Sayi desc Limit 1;
+            var values = _context.Comments.GroupBy(x => x.BlogID).
+                             Select(y => new
+                             {
+                                 BlogID = y.Key,
+                                 Count = y.Count()
+                                 
+                             }).OrderByDescending(z => z.Count).Take(1).FirstOrDefault();
+            string blogName = _context.Blogs.Where(x => x.BlogID == values.BlogID).Select(y => y.Title).FirstOrDefault();
+            return blogName;
         }
 
         public string GetBrandNameByMaxCar()
