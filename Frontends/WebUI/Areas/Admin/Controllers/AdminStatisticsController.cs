@@ -130,18 +130,74 @@ namespace WebUI.Areas.Admin.Controllers
                 ViewBag.avgRentPriceForMonthlyRandom = carCountByTransmissonIsAutoRandom;
             }
             #endregion
-            #region 
+            #region Max Araç Markası 
               var responseMessage10 = await client.GetAsync("http://localhost:5204/api/Statistics/GetBrandNameByMaxCar");
             if (responseMessage10.IsSuccessStatusCode)
             {
-                int carCountByTransmissonIsAutoRandom = random.Next(0, 101);
-                var jsonData9 = await responseMessage10.Content.ReadAsStringAsync();
-                var values9 = JsonConvert.DeserializeObject<ResultStatisticsDto>(jsonData9);
-                ViewBag.carCountByTransmissonIsAuto = values9.carCountByTransmissonIsAuto;//.ToString("0.00"); ;
-                ViewBag.avgRentPriceForMonthlyRandom = carCountByTransmissonIsAutoRandom;
+                int brandNameByMaxCarRandom = random.Next(0, 101);
+                var jsonData10 = await responseMessage10.Content.ReadAsStringAsync();
+                var values10 = JsonConvert.DeserializeObject<ResultStatisticsDto>(jsonData10);
+                ViewBag.brandNameByMaxCar = values10.brandNameByMaxCar;//.ToString("0.00"); ;
+                ViewBag.brandNameByMaxCarRandom = brandNameByMaxCarRandom;
+            }
+            #endregion
+            #region KM 1000 Den Düşük Araçlar
+              var responseMessage12 = await client.GetAsync("http://localhost:5204/api/Statistics/GetCarCountByKmSmallerThen1000");
+            if (responseMessage12.IsSuccessStatusCode)
+            {
+                int carCountByKmSmallerThen1000Random = random.Next(0, 101);
+                var jsonData12 = await responseMessage12.Content.ReadAsStringAsync();
+                var values12 = JsonConvert.DeserializeObject<ResultStatisticsDto>(jsonData12);
+                ViewBag.CarCountByKmSmallerThen1000 = values12.carCountByKmSmallerThen1000;//.ToString("0.00"); ;
+                ViewBag.carCountByKmSmallerThen1000Random = carCountByKmSmallerThen1000Random;
+            }
+            #endregion
+             #region Dizel araçlar
+              var responseMessage13 = await client.GetAsync("http://localhost:5204/api/Statistics/GetCarCountByFuelGasolineorDiesel");
+            if (responseMessage13.IsSuccessStatusCode)
+            {
+                int carCountByFuelGasolineorDieselRandom = random.Next(0, 101);
+                var jsonData13 = await responseMessage13.Content.ReadAsStringAsync();
+                var values13 = JsonConvert.DeserializeObject<ResultStatisticsDto>(jsonData13);
+                ViewBag.carCountByFuelGasolineorDiesel = values13.carCountByFuelGasolineorDiesel;//.ToString("0.00"); ;
+                ViewBag.carCountByFuelGasolineorDieselRandom = carCountByFuelGasolineorDieselRandom;
+            }
+            #endregion
+            #region Elektrikli araçlar
+              var responseMessage14 = await client.GetAsync("http://localhost:5204/api/Statistics/GetCarCountByFuelElectric");
+            if (responseMessage14.IsSuccessStatusCode)
+            {
+                int carCountByFuelElectricRandom = random.Next(0, 101);
+                var jsonData14 = await responseMessage14.Content.ReadAsStringAsync();
+                var values14 = JsonConvert.DeserializeObject<ResultStatisticsDto>(jsonData14);
+                ViewBag.carCountByFuelElectric = values14.carCountByFuelElectric;//.ToString("0.00"); ;
+                ViewBag.carCountByFuelElectricRandom = carCountByFuelElectricRandom;
+            }
+            #endregion
+            #region Günlük Max Ücretli Araç
+            var responseMessage15 = await client.GetAsync("http://localhost:5204/api/Statistics/GetCarBrandAndModelByRentPriceDailyMax");
+            if (responseMessage15.IsSuccessStatusCode)
+            {
+                int carBrandAndModelByRentPriceDailyMaxRandom = random.Next(0, 101);
+                var jsonData15 = await responseMessage15.Content.ReadAsStringAsync();
+                var values15 = JsonConvert.DeserializeObject<ResultStatisticsDto>(jsonData15);
+                ViewBag.carBrandAndModelByRentPriceDailyMax = values15.carBrandAndModelByRentPriceDailyMax;//.ToString("0.00"); ;
+                ViewBag.carBrandAndModelByRentPriceDailyMaxRandom = carBrandAndModelByRentPriceDailyMaxRandom;
+            }
+            #endregion
+            #region Günlük Min Ücretli Araç
+            var responseMessage16 = await client.GetAsync("http://localhost:5204/api/Statistics/GetCarBrandAndModelByRentPriceDailyMin");
+            if (responseMessage16.IsSuccessStatusCode)
+            {
+                int carBrandAndModelByRentPriceDailyMinRandom = random.Next(0, 101);
+                var jsonData15 = await responseMessage16.Content.ReadAsStringAsync();
+                var values15 = JsonConvert.DeserializeObject<ResultStatisticsDto>(jsonData15);
+                ViewBag.carBrandAndModelByRentPriceDailyMin = values15.carBrandAndModelByRentPriceDailyMin;//.ToString("0.00"); ;
+                ViewBag.carBrandAndModelByRentPriceDailyMaxRandom = carBrandAndModelByRentPriceDailyMinRandom;
             }
             #endregion
             return View();
+
     }
 }
 }

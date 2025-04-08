@@ -1,7 +1,9 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 using UdemyCarBook.Application.Interfaces.StatisticsInterfaces;
 using UdemyCarBook.Persistence.Context;
 
@@ -30,8 +32,9 @@ namespace UdemyCarBook.Persistence.Repositories.StatisticsRepositories
                              {
                                  BrandID = y.Key,
                                  Count = y.Count()
+                                 
                              }).OrderByDescending(z => z.Count).Take(1).FirstOrDefault();
-            string brandName = _context.Brands.Where(x => x.BrandID == values.BrandID).Select(y => y.Name).FirstOrDefault();
+            string brandName = _context.Cars.Where(x => x.BrandID == values.BrandID).Include(y => y.Brand).Select(z => z.Brand.Name + " " + z.Model).FirstOrDefault();
             return brandName;
         }
 
@@ -80,12 +83,22 @@ namespace UdemyCarBook.Persistence.Repositories.StatisticsRepositories
 
         public string GetCarBrandAndModelByRentPriceDailyMax()
         {
-            throw new NotImplementedException();
+            // SELECT * FROM udemycarbookdb.carpricings Where PricingID=(SELECT PricingID FROM pricings Where Name="Günlük") and Amount=(SELECT max(Amount) From carpricings Where PricingID=3)
+             int PricingID = _context.Pricings.Where(x => x.Name == "Günlük").Select(y => y.PricingID).FirstOrDefault();
+            decimal amount = _context.CarPricings.Where(y => y.PricingID == 3).Max(x => x.Amount);
+            int carId = _context.CarPricings.Where(x => x.Amount == amount).Select(y => y.CarID).FirstOrDefault();
+            string brandModel = _context.Cars.Where(x => x.CarID == carId).Include(y => y.Brand).Select(z => z.Brand.Name + " " + z.Model).FirstOrDefault();
+            return brandModel;
         }
 
         public string GetCarBrandAndModelByRentPriceDailyMin()
         {
-            throw new NotImplementedException();
+            // SELECT * FROM udemycarbookdb.carpricings Where PricingID=(SELECT PricingID FROM pricings Where Name="Günlük") and Amount=(SELECT max(Amount) From carpricings Where PricingID=3)
+             int PricingID = _context.Pricings.Where(x => x.Name == "Günlük").Select(y => y.PricingID).FirstOrDefault();
+            decimal amount = _context.CarPricings.Where(y => y.PricingID == 3).Min(x => x.Amount);
+            int carId = _context.CarPricings.Where(x => x.Amount == amount).Select(y => y.CarID).FirstOrDefault();
+            string brandModel = _context.Cars.Where(x => x.CarID == carId).Include(y => y.Brand).Select(z => z.Brand.Name + " " + z.Model).FirstOrDefault();
+            return brandModel;
         }
 
         public int GetCarCount()
