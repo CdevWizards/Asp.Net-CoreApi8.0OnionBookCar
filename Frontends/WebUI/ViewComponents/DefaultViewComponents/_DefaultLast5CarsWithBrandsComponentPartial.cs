@@ -21,7 +21,7 @@ namespace WebUI.ViewComponents.DefaultViewComponents
             // İStekte bulunmak için istemci oluşturduk.
             var client = _httpClientFactory.CreateClient();
             var responseMessage=await client.GetAsync
-            ("http://localhost:5204/api/Cars/GetLast5CarWithBrandQueryHandler");
+            ("http://localhost:5204/api/Cars/GetLast5CarsWithBrands");
             if (responseMessage.IsSuccessStatusCode) // durum kodları 200-299
             {
                 var jsonData = await responseMessage.Content.ReadAsStringAsync();

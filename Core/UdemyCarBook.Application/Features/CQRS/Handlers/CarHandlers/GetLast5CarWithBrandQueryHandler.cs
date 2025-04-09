@@ -24,7 +24,7 @@ namespace UdemyCarBook.Application.Features.CQRS.Handlers.CarHandlers
             return values.Select(x=> new GetCarWithBrandQueryResult
             {
                CarID = x.CarID,
-            BrandName = x.Brand.Name,
+              BrandName = x.Brand.Name,
                BrandID = x.BrandID,
                Model = x.Model,
                CoverImageUrl = x.CoverImageUrl,

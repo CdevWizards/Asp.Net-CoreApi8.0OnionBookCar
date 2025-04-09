@@ -73,6 +73,11 @@ namespace Udemy.CarBook.WebApi.Controllers
         {
             var values = _getCarWithBrandQueryHandler.Handle();
             return Ok(values);
-        }
+        }[HttpGet("GetLast5CarsWithBrands")]
+        public IActionResult GetLast5CarsWithBrands()
+        {
+            var values = _getCarWithBrandQueryHandler.Handle();
+            return Ok(values);
+    }
     }
 }

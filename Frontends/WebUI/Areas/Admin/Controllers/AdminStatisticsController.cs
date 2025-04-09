@@ -11,7 +11,7 @@ using UdemyCarBook.Dto.StatisticsDtos;
 
 namespace WebUI.Areas.Admin.Controllers
 {
-     [Area("admin")]
+     [Area("Admin")]
     public class AdminStatisticsController : Controller
     {
      private readonly IHttpClientFactory _httpClientFactory;
