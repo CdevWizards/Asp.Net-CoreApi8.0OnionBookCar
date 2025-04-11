@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jkhawqju3bc=",
+  "dgSpecHash": "Lu49QLDIJQ4=",
   "success": true,
-  "projectFilePath": "c:\\Users\\IT\\Desktop\\Asp.Net-CoreApi8.0OnionBookCar\\Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj",
+  "projectFilePath": "C:\\Users\\IT\\Desktop\\Asp.Net-CoreApi8.0OnionBookCar\\Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IT\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
     "C:\\Users\\IT\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
@@ -17,7 +17,7 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requires MediatR (>= 11.0.0 && < 12.0.0) but version MediatR 12.4.1 was resolved.",
+      "message": "Bağımlılık kısıtlaması dışında algılanan paket sürümü: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0, MediatR (>= 11.0.0 && < 12.0.0) gerektiriyor ancak sürüm MediatR 12.4.1 çözümlenmiş.",
       "libraryId": "MediatR",
       "targetGraphs": [
         "net9.0"

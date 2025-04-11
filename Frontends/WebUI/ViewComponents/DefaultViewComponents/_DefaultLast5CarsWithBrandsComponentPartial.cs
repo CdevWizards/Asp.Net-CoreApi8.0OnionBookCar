@@ -15,7 +15,6 @@ namespace WebUI.ViewComponents.DefaultViewComponents
         {
             _httpClientFactory = httpClientFactory;
         }
-
         public async Task<IViewComponentResult> InvokeAsync()
         {
             // İStekte bulunmak için istemci oluşturduk.
