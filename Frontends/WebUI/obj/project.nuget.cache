@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WwQAkrQmCaA=",
+  "dgSpecHash": "mhxdktIWwYk=",
   "success": true,
-  "projectFilePath": "c:\\Users\\IT\\Desktop\\Asp.Net-CoreApi8.0OnionBookCar\\Frontends\\WebUI\\WebUI.csproj",
+  "projectFilePath": "/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/WebUI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\IT\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "/Users/ahmetcanulusoy/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }
