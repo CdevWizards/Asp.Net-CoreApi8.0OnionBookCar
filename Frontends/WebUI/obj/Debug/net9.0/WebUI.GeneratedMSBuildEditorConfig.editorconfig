@@ -9,377 +9,377 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebUI
 build_property.RootNamespace = WebUI
-build_property.ProjectDir = /Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/
+build_property.ProjectDir = c:\Users\IT\Desktop\asp.netcore\Frontends\WebUI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI
+build_property.MSBuildProjectDirectory = c:\Users\IT\Desktop\asp.netcore\Frontends\WebUI
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminAbout/CreateAbout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5BYm91dC9DcmVhdGVBYm91dC5jc2h0bWw=
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminAbout/CreateAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5BYm91dFxDcmVhdGVBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminAbout/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5BYm91dC9JbmRleC5jc2h0bWw=
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminAbout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5BYm91dFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminAbout/UpdateAbout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5BYm91dC9VcGRhdGVBYm91dC5jc2h0bWw=
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminAbout/UpdateAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5BYm91dFxVcGRhdGVBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminAuthor/CreateAuthor.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5BdXRob3IvQ3JlYXRlQXV0aG9yLmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminAuthor/CreateAuthor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5BdXRob3JcQ3JlYXRlQXV0aG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminAuthor/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5BdXRob3IvSW5kZXguY3NodG1s
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminAuthor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5BdXRob3JcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminAuthor/UpdateAuthor.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5BdXRob3IvVXBkYXRlQXV0aG9yLmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminAuthor/UpdateAuthor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5BdXRob3JcVXBkYXRlQXV0aG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminBanner/CreateBanner.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5CYW5uZXIvQ3JlYXRlQmFubmVyLmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminBanner/CreateBanner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5CYW5uZXJcQ3JlYXRlQmFubmVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminBanner/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5CYW5uZXIvSW5kZXguY3NodG1s
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminBanner/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5CYW5uZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminBanner/UpdateBanner.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5CYW5uZXIvVXBkYXRlQmFubmVyLmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminBanner/UpdateBanner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5CYW5uZXJcVXBkYXRlQmFubmVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminBlog/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5CbG9nL0luZGV4LmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminBlog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5CbG9nXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminCategory/CreateCategory.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5DYXRlZ29yeS9DcmVhdGVDYXRlZ29yeS5jc2h0bWw=
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminCategory/CreateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5DYXRlZ29yeVxDcmVhdGVDYXRlZ29yeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminCategory/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5DYXRlZ29yeS9JbmRleC5jc2h0bWw=
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminCategory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5DYXRlZ29yeVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminCategory/UpdateCategory.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5DYXRlZ29yeS9VcGRhdGVDYXRlZ29yeS5jc2h0bWw=
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminCategory/UpdateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5DYXRlZ29yeVxVcGRhdGVDYXRlZ29yeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminComment/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5Db21tZW50L0luZGV4LmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminComment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Db21tZW50XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminContact/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5Db250YWN0L0luZGV4LmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminContact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Db250YWN0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminFooterAddress/CreateFooterAddress.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5Gb290ZXJBZGRyZXNzL0NyZWF0ZUZvb3RlckFkZHJlc3MuY3NodG1s
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminFooterAddress/CreateFooterAddress.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Gb290ZXJBZGRyZXNzXENyZWF0ZUZvb3RlckFkZHJlc3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminFooterAddress/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5Gb290ZXJBZGRyZXNzL0luZGV4LmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminFooterAddress/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Gb290ZXJBZGRyZXNzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminFooterAddress/UpdateFooterAddress.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5Gb290ZXJBZGRyZXNzL1VwZGF0ZUZvb3RlckFkZHJlc3MuY3NodG1s
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminFooterAddress/UpdateFooterAddress.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Gb290ZXJBZGRyZXNzXFVwZGF0ZUZvb3RlckFkZHJlc3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminLocation/CreateLocation.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5Mb2NhdGlvbi9DcmVhdGVMb2NhdGlvbi5jc2h0bWw=
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminLocation/CreateLocation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Mb2NhdGlvblxDcmVhdGVMb2NhdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminLocation/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5Mb2NhdGlvbi9JbmRleC5jc2h0bWw=
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminLocation/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Mb2NhdGlvblxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminLocation/UpdateLocation.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5Mb2NhdGlvbi9VcGRhdGVMb2NhdGlvbi5jc2h0bWw=
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminLocation/UpdateLocation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Mb2NhdGlvblxVcGRhdGVMb2NhdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminPricing/CreatePricing.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5QcmljaW5nL0NyZWF0ZVByaWNpbmcuY3NodG1s
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminPricing/CreatePricing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5QcmljaW5nXENyZWF0ZVByaWNpbmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminPricing/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5QcmljaW5nL0luZGV4LmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminPricing/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5QcmljaW5nXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminPricing/UpdatePricing.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5QcmljaW5nL1VwZGF0ZVByaWNpbmcuY3NodG1s
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminPricing/UpdatePricing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5QcmljaW5nXFVwZGF0ZVByaWNpbmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminService/CreateService.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5TZXJ2aWNlL0NyZWF0ZVNlcnZpY2UuY3NodG1s
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminService/CreateService.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5TZXJ2aWNlXENyZWF0ZVNlcnZpY2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminService/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5TZXJ2aWNlL0luZGV4LmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminService/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5TZXJ2aWNlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminService/UpdateService.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5TZXJ2aWNlL1VwZGF0ZVNlcnZpY2UuY3NodG1s
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminService/UpdateService.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5TZXJ2aWNlXFVwZGF0ZVNlcnZpY2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminSocialMedia/CreateSocialMedia.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5Tb2NpYWxNZWRpYS9DcmVhdGVTb2NpYWxNZWRpYS5jc2h0bWw=
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminSocialMedia/CreateSocialMedia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Tb2NpYWxNZWRpYVxDcmVhdGVTb2NpYWxNZWRpYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminSocialMedia/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5Tb2NpYWxNZWRpYS9JbmRleC5jc2h0bWw=
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminSocialMedia/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Tb2NpYWxNZWRpYVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminSocialMedia/UpdateSocialMedia.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5Tb2NpYWxNZWRpYS9VcGRhdGVTb2NpYWxNZWRpYS5jc2h0bWw=
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminSocialMedia/UpdateSocialMedia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Tb2NpYWxNZWRpYVxVcGRhdGVTb2NpYWxNZWRpYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminStatistics/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5TdGF0aXN0aWNzL0luZGV4LmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminStatistics/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5TdGF0aXN0aWNzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminTestimonial/CreateTestimonial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5UZXN0aW1vbmlhbC9DcmVhdGVUZXN0aW1vbmlhbC5jc2h0bWw=
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminTestimonial/CreateTestimonial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5UZXN0aW1vbmlhbFxDcmVhdGVUZXN0aW1vbmlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminTestimonial/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5UZXN0aW1vbmlhbC9JbmRleC5jc2h0bWw=
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminTestimonial/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5UZXN0aW1vbmlhbFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/AdminTestimonial/UpdateTestimonial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5UZXN0aW1vbmlhbC9VcGRhdGVUZXN0aW1vbmlhbC5jc2h0bWw=
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/AdminTestimonial/UpdateTestimonial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5UZXN0aW1vbmlhbFxVcGRhdGVUZXN0aW1vbmlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Areas/Admin/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/About/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWJvdXQvSW5kZXguY3NodG1s
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/AdminBrand/CreateBrand.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW5CcmFuZC9DcmVhdGVCcmFuZC5jc2h0bWw=
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/AdminBrand/CreateBrand.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5CcmFuZFxDcmVhdGVCcmFuZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/AdminBrand/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW5CcmFuZC9JbmRleC5jc2h0bWw=
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/AdminBrand/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5CcmFuZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/AdminBrand/UpdateBrand.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW5CcmFuZC9VcGRhdGVCcmFuZC5jc2h0bWw=
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/AdminBrand/UpdateBrand.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5CcmFuZFxVcGRhdGVCcmFuZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/AdminCar/CreateCar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW5DYXIvQ3JlYXRlQ2FyLmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/AdminCar/CreateCar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5DYXJcQ3JlYXRlQ2FyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/AdminCar/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW5DYXIvSW5kZXguY3NodG1s
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/AdminCar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5DYXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/AdminCar/UpdateCar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW5DYXIvVXBkYXRlQ2FyLmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/AdminCar/UpdateCar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5DYXJcVXBkYXRlQ2FyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/AdminFeature/CreateFeature.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW5GZWF0dXJlL0NyZWF0ZUZlYXR1cmUuY3NodG1s
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/AdminFeature/CreateFeature.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5GZWF0dXJlXENyZWF0ZUZlYXR1cmUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/AdminFeature/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW5GZWF0dXJlL0luZGV4LmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/AdminFeature/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5GZWF0dXJlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/AdminFeature/UpdateFeature.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW5GZWF0dXJlL1VwZGF0ZUZlYXR1cmUuY3NodG1s
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/AdminFeature/UpdateFeature.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5GZWF0dXJlXFVwZGF0ZUZlYXR1cmUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/AdminLayout/AdminFooterPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW5MYXlvdXQvQWRtaW5Gb290ZXJQYXJ0aWFsLmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/AdminLayout/AdminFooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcQWRtaW5Gb290ZXJQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/AdminLayout/AdminHeaderPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW5MYXlvdXQvQWRtaW5IZWFkZXJQYXJ0aWFsLmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/AdminLayout/AdminHeaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcQWRtaW5IZWFkZXJQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/AdminLayout/AdminNavbarPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW5MYXlvdXQvQWRtaW5OYXZiYXJQYXJ0aWFsLmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/AdminLayout/AdminNavbarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcQWRtaW5OYXZiYXJQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/AdminLayout/AdminScriptPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW5MYXlvdXQvQWRtaW5TY3JpcHRQYXJ0aWFsLmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/AdminLayout/AdminScriptPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcQWRtaW5TY3JpcHRQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/AdminLayout/AdminSidebarPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW5MYXlvdXQvQWRtaW5TaWRlYmFyUGFydGlhbC5jc2h0bWw=
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/AdminLayout/AdminSidebarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcQWRtaW5TaWRlYmFyUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/AdminLayout/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW5MYXlvdXQvSW5kZXguY3NodG1s
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/AdminLayout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Blog/BlogDetail.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmxvZy9CbG9nRGV0YWlsLmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Blog/BlogDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Blog/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmxvZy9JbmRleC5jc2h0bWw=
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Blog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Car/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FyL0luZGV4LmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Car/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Contact/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdC9JbmRleC5jc2h0bWw=
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Default/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVmYXVsdC9JbmRleC5jc2h0bWw=
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Default/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/RentACarList/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVudEFDYXJMaXN0L0luZGV4LmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/RentACarList/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudEFDYXJMaXN0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Service/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VydmljZS9JbmRleC5jc2h0bWw=
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Service/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Shared/Components/_AboutUsComponentPartial/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0Fib3V0VXNDb21wb25lbnRQYXJ0aWFsL0RlZmF1bHQuY3NodG1s
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Shared/Components/_AboutUsComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Fib3V0VXNDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Shared/Components/_AddCommentComponentPartial/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0FkZENvbW1lbnRDb21wb25lbnRQYXJ0aWFsL0RlZmF1bHQuY3NodG1s
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Shared/Components/_AddCommentComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkZENvbW1lbnRDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Shared/Components/_BecomeADriverComponentPartial/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0JlY29tZUFEcml2ZXJDb21wb25lbnRQYXJ0aWFsL0RlZmF1bHQuY3NodG1s
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Shared/Components/_BecomeADriverComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0JlY29tZUFEcml2ZXJDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Shared/Components/_BlockDetailAuthorAboutComponentPartial/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0Jsb2NrRGV0YWlsQXV0aG9yQWJvdXRDb21wb25lbnRQYXJ0aWFsL0RlZmF1bHQuY3NodG1s
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Shared/Components/_BlockDetailAuthorAboutComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2NrRGV0YWlsQXV0aG9yQWJvdXRDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Shared/Components/_BlockDetailCloudTagByBlogComponentPartial/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0Jsb2NrRGV0YWlsQ2xvdWRUYWdCeUJsb2dDb21wb25lbnRQYXJ0aWFsL0RlZmF1bHQuY3NodG1s
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Shared/Components/_BlockDetailCloudTagByBlogComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2NrRGV0YWlsQ2xvdWRUYWdCeUJsb2dDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Shared/Components/_BlockDetailSideBarSearchBoxComponentPartial/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0Jsb2NrRGV0YWlsU2lkZUJhclNlYXJjaEJveENvbXBvbmVudFBhcnRpYWwvRGVmYXVsdC5jc2h0bWw=
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Shared/Components/_BlockDetailSideBarSearchBoxComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2NrRGV0YWlsU2lkZUJhclNlYXJjaEJveENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Shared/Components/_BlogDetailCategoryViewComponents/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0Jsb2dEZXRhaWxDYXRlZ29yeVZpZXdDb21wb25lbnRzL0RlZmF1bHQuY3NodG1s
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Shared/Components/_BlogDetailCategoryViewComponents/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2dEZXRhaWxDYXRlZ29yeVZpZXdDb21wb25lbnRzXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Shared/Components/_BlogDetailMainComponentPartial/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0Jsb2dEZXRhaWxNYWluQ29tcG9uZW50UGFydGlhbC9EZWZhdWx0LmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Shared/Components/_BlogDetailMainComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2dEZXRhaWxNYWluQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Shared/Components/_BlogDetailParagraphComponentPartial/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0Jsb2dEZXRhaWxQYXJhZ3JhcGhDb21wb25lbnRQYXJ0aWFsL0RlZmF1bHQuY3NodG1s
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Shared/Components/_BlogDetailParagraphComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2dEZXRhaWxQYXJhZ3JhcGhDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Shared/Components/_BlogDetailRecentBlogsComponetPartial/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0Jsb2dEZXRhaWxSZWNlbnRCbG9nc0NvbXBvbmV0UGFydGlhbC9EZWZhdWx0LmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Shared/Components/_BlogDetailRecentBlogsComponetPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2dEZXRhaWxSZWNlbnRCbG9nc0NvbXBvbmV0UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Shared/Components/_BlogDetailTagCloudComponentPartial/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0Jsb2dEZXRhaWxUYWdDbG91ZENvbXBvbmVudFBhcnRpYWwvRGVmYXVsdC5jc2h0bWw=
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Shared/Components/_BlogDetailTagCloudComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2dEZXRhaWxUYWdDbG91ZENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Shared/Components/_CommentListByBlogComponentPartial/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0NvbW1lbnRMaXN0QnlCbG9nQ29tcG9uZW50UGFydGlhbC9EZWZhdWx0LmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Shared/Components/_CommentListByBlogComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0NvbW1lbnRMaXN0QnlCbG9nQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Shared/Components/_DefaultCoverUILayoutComponentPartial/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0RlZmF1bHRDb3ZlclVJTGF5b3V0Q29tcG9uZW50UGFydGlhbC9EZWZhdWx0LmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Shared/Components/_DefaultCoverUILayoutComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRDb3ZlclVJTGF5b3V0Q29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Shared/Components/_DefaultLast5CarsWithBrandsComponentPartial/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0RlZmF1bHRMYXN0NUNhcnNXaXRoQnJhbmRzQ29tcG9uZW50UGFydGlhbC9EZWZhdWx0LmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Shared/Components/_DefaultLast5CarsWithBrandsComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRMYXN0NUNhcnNXaXRoQnJhbmRzQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Shared/Components/_DefaultStaticsComponentPartial/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0RlZmF1bHRTdGF0aWNzQ29tcG9uZW50UGFydGlhbC9EZWZhdWx0LmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Shared/Components/_DefaultStaticsComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRTdGF0aWNzQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Shared/Components/_FooterAddressComponentPartial/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0Zvb3RlckFkZHJlc3NDb21wb25lbnRQYXJ0aWFsL0RlZmF1bHQuY3NodG1s
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Shared/Components/_FooterAddressComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Zvb3RlckFkZHJlc3NDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Shared/Components/_FooterUILayoutComponentPartial/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0Zvb3RlclVJTGF5b3V0Q29tcG9uZW50UGFydGlhbC9EZWZhdWx0LmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Shared/Components/_FooterUILayoutComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Zvb3RlclVJTGF5b3V0Q29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Shared/Components/_GetLast3BlogWithAuthorListComponentPartial/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0dldExhc3QzQmxvZ1dpdGhBdXRob3JMaXN0Q29tcG9uZW50UGFydGlhbC9EZWZhdWx0LmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Shared/Components/_GetLast3BlogWithAuthorListComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0dldExhc3QzQmxvZ1dpdGhBdXRob3JMaXN0Q29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Shared/Components/_HeadUILayoutComponentPartial/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0hlYWRVSUxheW91dENvbXBvbmVudFBhcnRpYWwvRGVmYXVsdC5jc2h0bWw=
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Shared/Components/_HeadUILayoutComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0hlYWRVSUxheW91dENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Shared/Components/_MainCoverUILayoutComponentPartial/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX01haW5Db3ZlclVJTGF5b3V0Q29tcG9uZW50UGFydGlhbC9EZWZhdWx0LmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Shared/Components/_MainCoverUILayoutComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX01haW5Db3ZlclVJTGF5b3V0Q29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Shared/Components/_NavbarUILayoutComponentPartial/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX05hdmJhclVJTGF5b3V0Q29tcG9uZW50UGFydGlhbC9EZWZhdWx0LmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Shared/Components/_NavbarUILayoutComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX05hdmJhclVJTGF5b3V0Q29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Shared/Components/_RentACarFilterComponentPartial/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX1JlbnRBQ2FyRmlsdGVyQ29tcG9uZW50UGFydGlhbC9EZWZhdWx0LmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Shared/Components/_RentACarFilterComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1JlbnRBQ2FyRmlsdGVyQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Shared/Components/_ScriptUILayoutComponentPartial/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX1NjcmlwdFVJTGF5b3V0Q29tcG9uZW50UGFydGlhbC9EZWZhdWx0LmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Shared/Components/_ScriptUILayoutComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NjcmlwdFVJTGF5b3V0Q29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Shared/Components/_ServiceComponentPartial/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX1NlcnZpY2VDb21wb25lbnRQYXJ0aWFsL0RlZmF1bHQuY3NodG1s
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Shared/Components/_ServiceComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NlcnZpY2VDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Shared/Components/_TestimonialComponentPartial/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX1Rlc3RpbW9uaWFsQ29tcG9uZW50UGFydGlhbC9EZWZhdWx0LmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Shared/Components/_TestimonialComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1Rlc3RpbW9uaWFsQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/UILayout/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVUlMYXlvdXQvSW5kZXguY3NodG1s
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/UILayout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlMYXlvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Frontends/WebUI/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-eh7gjq0slz
+[c:/Users/IT/Desktop/asp.netcore/Frontends/WebUI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-mv07mvknwk

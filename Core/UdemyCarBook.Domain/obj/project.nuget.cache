@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o+aCwc/67HU=",
+  "dgSpecHash": "NfjDihAGP54=",
   "success": true,
-  "projectFilePath": "/Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Core/UdemyCarBook.Domain/UdemyCarBook.Domain.csproj",
-  "expectedPackageFiles": [
-    "/Users/ahmetcanulusoy/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
-    "/Users/ahmetcanulusoy/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
-  ],
+  "projectFilePath": "c:\\Users\\IT\\Desktop\\asp.netcore\\Core\\UdemyCarBook.Domain\\UdemyCarBook.Domain.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

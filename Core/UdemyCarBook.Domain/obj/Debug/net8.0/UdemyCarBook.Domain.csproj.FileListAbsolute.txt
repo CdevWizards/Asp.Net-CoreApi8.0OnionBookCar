@@ -138,3 +138,15 @@ c:/Users/IT/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Core/UdemyCarBook.Domain/obj/
 /Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Core/UdemyCarBook.Domain/bin/Debug/net8.0/UdemyCarBook.Domain.dll
 /Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Core/UdemyCarBook.Domain/bin/Debug/net8.0/UdemyCarBook.Domain.pdb
 /Users/ahmetcanulusoy/Desktop/Asp.Net-CoreApi8.0OnionBookCar/Core/UdemyCarBook.Domain/obj/Debug/net8.0/ref/UdemyCarBook.Domain.dll
+c:\Users\IT\Desktop\asp.netcore\Core\UdemyCarBook.Domain\bin\Debug\net8.0\UdemyCarBook.Domain.deps.json
+c:\Users\IT\Desktop\asp.netcore\Core\UdemyCarBook.Domain\bin\Debug\net8.0\UdemyCarBook.Domain.dll
+c:\Users\IT\Desktop\asp.netcore\Core\UdemyCarBook.Domain\bin\Debug\net8.0\UdemyCarBook.Domain.pdb
+c:\Users\IT\Desktop\asp.netcore\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\IT\Desktop\asp.netcore\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.AssemblyInfoInputs.cache
+c:\Users\IT\Desktop\asp.netcore\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.AssemblyInfo.cs
+c:\Users\IT\Desktop\asp.netcore\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.csproj.CoreCompileInputs.cache
+c:\Users\IT\Desktop\asp.netcore\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.sourcelink.json
+c:\Users\IT\Desktop\asp.netcore\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.dll
+c:\Users\IT\Desktop\asp.netcore\Core\UdemyCarBook.Domain\obj\Debug\net8.0\refint\UdemyCarBook.Domain.dll
+c:\Users\IT\Desktop\asp.netcore\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.pdb
+c:\Users\IT\Desktop\asp.netcore\Core\UdemyCarBook.Domain\obj\Debug\net8.0\ref\UdemyCarBook.Domain.dll
