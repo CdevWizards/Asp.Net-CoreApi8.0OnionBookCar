@@ -20,30 +20,34 @@ namespace WebUI.Controllers
             _httpClientFactory = httpClientFactory;
         }
 
-        public async Task<IActionResult> Index(FilterRentACarDto filterRentACarDto)
+        public async Task<IActionResult> Index(int id)
         {
-            var timeoff = TempData["timeoff"];
-            var timepick = TempData["timepick"];
-            var locationID = TempData["locationID"];
-            var bookpickdate = TempData["bookpickdate"];
-            var bookoffdate = TempData["bookoffdate"];
+            // var timeoff = TempData["timeoff"];
+            // var timepick = TempData["timepick"];
+            // var bookpickdate = TempData["bookpickdate"];
+            // var bookoffdate = TempData["bookoffdate"];
+            //var locationID = TempData.Keep["locationID"];
+             var locationID = TempData.Peek("locationID");
 
-            filterRentACarDto.locationID = int.Parse(locationID.ToString());
-            filterRentACarDto.available = true;
+
+            //filterRentACarDto.locationID = int.Parse(locationID.ToString());
+            //filterRentACarDto.available = true;
+            id = int.Parse(locationID.ToString());
             
-            ViewBag.bookpickdate=bookpickdate;
-            ViewBag.bookoffdate=bookoffdate;
-            ViewBag.timeoff=timeoff;
-            ViewBag.locationID=locationID;
-            ViewBag.timepick=timepick;
+            ViewBag.locationID = locationID; 
+            // ViewBag.bookpickdate=bookpickdate;
+            // ViewBag.bookoffdate=bookoffdate;
+            // ViewBag.timeoff=timeoff;
+            // ViewBag.locationID=locationID;
+            // ViewBag.timepick=timepick;
 
-            var client = _httpClientFactory.CreateClient();
-            var jsonData = JsonConvert.SerializeObject(locationID);
-            StringContent stringContent = new StringContent (jsonData, Encoding.UTF8,"application/json");
-            var responseMessage = await client.PostAsync("http://localhost:5204/api/RentACars", stringContent);
-            if(responseMessage.IsSuccessStatusCode)
+             var client = _httpClientFactory.CreateClient();
+            var responseMessage = await client.GetAsync($"http://localhost:5204/api/RentACars?locationID={id}&available=true");
+            if (responseMessage.IsSuccessStatusCode)
             {
-                return RedirectToAction("Index");
+                var jsonData = await responseMessage.Content.ReadAsStringAsync();
+                var values = JsonConvert.DeserializeObject<List<FilterRentACarDto>>(jsonData);
+                return View(values);
             }
             return View();
         }

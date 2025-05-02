@@ -27,7 +27,7 @@
 		          		<h2>Şimdi Aracınızı Kiralayın</h2>
 			    				<div class="form-group">
 			    					<label for="" class="label">Alınacak Lokasyon</label>
-			    					@Html.DropDownListFor(x=>x.LocationID, (List<SelectListItem>)ViewBag.v,new {@class = "form-control"})
+			    					@Html.DropDownListFor(x=>x.LocationID, (List<SelectListItem>)ViewBag.v,new {@class = "form-control",@id="drop"})
 									@*<input type="text" class="form-control" placeholder="City, Airport, Station, etc">*@
 			    				</div>
 			    			@*	<div class="form-group">

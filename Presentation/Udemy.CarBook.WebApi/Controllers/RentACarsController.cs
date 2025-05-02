@@ -19,12 +19,25 @@ namespace Udemy.CarBook.WebApi.Controllers
             _mediator = mediator;
         }
 
+        /*
         [HttpPost]
         public async Task<IActionResult> GetRentACarListByLocation(GetRentACarQuery query)
         {
             var values = await _mediator.Send(query);
             return Ok(values);
 
+        }
+        */
+        [HttpGet]
+        public async Task<IActionResult> GetRentACarListByLocation(int locationID,bool available)
+        {
+            GetRentACarQuery getRentACarQuery = new GetRentACarQuery()
+            {
+                Available =available,
+                LocationID = locationID
+            };
+            var values = await _mediator.Send(getRentACarQuery);
+            return Ok(values);
         }
     }
 }

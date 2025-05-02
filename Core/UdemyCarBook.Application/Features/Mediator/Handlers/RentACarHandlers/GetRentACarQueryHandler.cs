@@ -25,6 +25,9 @@ namespace UdemyCarBook.Application.Features.Mediator.Handlers.RentACarHandlers
             var results = values.Select(y => new GetRentACarQueryResult
             {
                 CarId = y.CarID,
+                Brand = y.Car.Brand.Name,
+                Model =y.Car.Model,
+                CoverImageUrl = y.Car.CoverImageUrl,
             }).ToList();
             return results;
         }
