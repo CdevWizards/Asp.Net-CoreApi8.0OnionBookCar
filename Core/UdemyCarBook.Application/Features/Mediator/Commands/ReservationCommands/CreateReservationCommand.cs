@@ -8,7 +8,7 @@ namespace UdemyCarBook.Application.Features.Mediator.Commands.ReservationCommand
 {
     public class CreateReservationCommand : IRequest
     {
-        public int ReservationID { get; set; }
+        //public int ReservationID { get; set; }
         public string Name { get; set; }
         public string Surname { get; set; }
         public string Email { get; set; }
