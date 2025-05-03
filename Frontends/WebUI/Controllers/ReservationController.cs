@@ -13,7 +13,7 @@ using UdemyCarBook.Dto.ReservationDtos;
 
 namespace WebUI.Controllers
 {
-    [Route("[controller]")]
+    [Route("[controller]/Index/{id}")]
     public class ReservationController : Controller
     { 
         private readonly IHttpClientFactory _httpClientFactory;

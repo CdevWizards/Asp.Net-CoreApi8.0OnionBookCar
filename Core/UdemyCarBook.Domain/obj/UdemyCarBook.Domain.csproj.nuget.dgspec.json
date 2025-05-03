@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IT\\Desktop\\asp.netcore\\Core\\UdemyCarBook.Domain\\UdemyCarBook.Domain.csproj": {}
+    "c:\\Users\\IT\\Desktop\\asp.netcore\\Core\\UdemyCarBook.Domain\\UdemyCarBook.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IT\\Desktop\\asp.netcore\\Core\\UdemyCarBook.Domain\\UdemyCarBook.Domain.csproj": {
+    "c:\\Users\\IT\\Desktop\\asp.netcore\\Core\\UdemyCarBook.Domain\\UdemyCarBook.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IT\\Desktop\\asp.netcore\\Core\\UdemyCarBook.Domain\\UdemyCarBook.Domain.csproj",
+        "projectUniqueName": "c:\\Users\\IT\\Desktop\\asp.netcore\\Core\\UdemyCarBook.Domain\\UdemyCarBook.Domain.csproj",
         "projectName": "UdemyCarBook.Domain",
-        "projectPath": "C:\\Users\\IT\\Desktop\\asp.netcore\\Core\\UdemyCarBook.Domain\\UdemyCarBook.Domain.csproj",
+        "projectPath": "c:\\Users\\IT\\Desktop\\asp.netcore\\Core\\UdemyCarBook.Domain\\UdemyCarBook.Domain.csproj",
         "packagesPath": "C:\\Users\\IT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IT\\Desktop\\asp.netcore\\Core\\UdemyCarBook.Domain\\obj\\",
+        "outputPath": "c:\\Users\\IT\\Desktop\\asp.netcore\\Core\\UdemyCarBook.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
