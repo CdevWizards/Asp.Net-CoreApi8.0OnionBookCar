@@ -2673,6 +2673,30 @@
       "PackagePath": "staticwebassets\\carbook-master\\fonts\\open-iconic\\open-iconic.woff"
     },
     {
+      "Id": "c:\\Users\\IT\\Desktop\\asp.netcore\\Frontends\\WebUI\\wwwroot\\carbook-master\\images\\BmwX2.jpg",
+      "PackagePath": "staticwebassets\\carbook-master\\images\\BmwX2.jpg"
+    },
+    {
+      "Id": "c:\\Users\\IT\\Desktop\\asp.netcore\\Frontends\\WebUI\\wwwroot\\carbook-master\\images\\CherryTiggo.jpg",
+      "PackagePath": "staticwebassets\\carbook-master\\images\\CherryTiggo.jpg"
+    },
+    {
+      "Id": "c:\\Users\\IT\\Desktop\\asp.netcore\\Frontends\\WebUI\\wwwroot\\carbook-master\\images\\HyundaiKona.webp",
+      "PackagePath": "staticwebassets\\carbook-master\\images\\HyundaiKona.webp"
+    },
+    {
+      "Id": "c:\\Users\\IT\\Desktop\\asp.netcore\\Frontends\\WebUI\\wwwroot\\carbook-master\\images\\KiaXceed.png",
+      "PackagePath": "staticwebassets\\carbook-master\\images\\KiaXceed.png"
+    },
+    {
+      "Id": "c:\\Users\\IT\\Desktop\\asp.netcore\\Frontends\\WebUI\\wwwroot\\carbook-master\\images\\Opel_Astra.png",
+      "PackagePath": "staticwebassets\\carbook-master\\images\\Opel_Astra.png"
+    },
+    {
+      "Id": "c:\\Users\\IT\\Desktop\\asp.netcore\\Frontends\\WebUI\\wwwroot\\carbook-master\\images\\ToyotaCorolla.png",
+      "PackagePath": "staticwebassets\\carbook-master\\images\\ToyotaCorolla.png"
+    },
+    {
       "Id": "c:\\Users\\IT\\Desktop\\asp.netcore\\Frontends\\WebUI\\wwwroot\\carbook-master\\images\\about.jpg",
       "PackagePath": "staticwebassets\\carbook-master\\images\\about.jpg"
     },

@@ -497,6 +497,56 @@ namespace UdemyCarBook.Persistence.Migrations
                     b.ToTable("RentACarProcesses");
                 });
 
+            modelBuilder.Entity("UdemyCarBook.Domain.Entities.Reservation", b =>
+                {
+                    b.Property<int>("ReservationID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    b.Property<int>("Age")
+                        .HasColumnType("int");
+
+                    b.Property<int>("CarID")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
+                    b.Property<string>("DriverLicenceYear")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
+                    b.Property<int?>("DropOffLocationID")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
+                    b.Property<int>("Phone")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("PickUpLocationID")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Surname")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
+                    b.HasKey("ReservationID");
+
+                    b.HasIndex("DropOffLocationID");
+
+                    b.HasIndex("PickUpLocationID");
+
+                    b.ToTable("Reservations");
+                });
+
             modelBuilder.Entity("UdemyCarBook.Domain.Entities.Service", b =>
                 {
                     b.Property<int>("ServiceID")
@@ -688,7 +738,7 @@ namespace UdemyCarBook.Persistence.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("UdemyCarBook.Domain.Entities.Location", "LocationId")
+                    b.HasOne("UdemyCarBook.Domain.Entities.Location", "Location")
                         .WithMany("RentACars")
                         .HasForeignKey("LocationID")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -696,7 +746,7 @@ namespace UdemyCarBook.Persistence.Migrations
 
                     b.Navigation("Car");
 
-                    b.Navigation("LocationId");
+                    b.Navigation("Location");
                 });
 
             modelBuilder.Entity("UdemyCarBook.Domain.Entities.RentACarProcess", b =>
@@ -716,6 +766,21 @@ namespace UdemyCarBook.Persistence.Migrations
                     b.Navigation("Car");
 
                     b.Navigation("Customer");
+                });
+
+            modelBuilder.Entity("UdemyCarBook.Domain.Entities.Reservation", b =>
+                {
+                    b.HasOne("UdemyCarBook.Domain.Entities.Location", "DropOffLocation")
+                        .WithMany("DropOffReservation")
+                        .HasForeignKey("DropOffLocationID");
+
+                    b.HasOne("UdemyCarBook.Domain.Entities.Location", "PickUpLocation")
+                        .WithMany("PickUpReservation")
+                        .HasForeignKey("PickUpLocationID");
+
+                    b.Navigation("DropOffLocation");
+
+                    b.Navigation("PickUpLocation");
                 });
 
             modelBuilder.Entity("UdemyCarBook.Domain.Entities.TagCloud", b =>
@@ -774,6 +839,10 @@ namespace UdemyCarBook.Persistence.Migrations
 
             modelBuilder.Entity("UdemyCarBook.Domain.Entities.Location", b =>
                 {
+                    b.Navigation("DropOffReservation");
+
+                    b.Navigation("PickUpReservation");
+
                     b.Navigation("RentACars");
                 });
 
